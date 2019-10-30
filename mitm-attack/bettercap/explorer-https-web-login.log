@@ -1,0 +1,25 @@
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) [cmd=ip opts=[route] parser=^(default|[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)\svia\s([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)\sdev\s(\S+).*$]
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) output:
+default via 192.168.2.254 dev eth1 proto dhcp metric 100 
+192.168.2.0/24 dev eth1 proto kernel scope link src 192.168.2.12 metric 100
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) line 'default via 192.168.2.254 dev eth1 proto dhcp metric 100' matched with [default via 192.168.2.254 dev eth1 proto dhcp metric 100 default 192.168.2.254 eth1]
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] gateway is 192.168.2.254[34:4d:ea:88:24:a4]
+[15:39:41] [[32msession.started[0m] {session.started 2019-10-25 15:39:41.501655053 -0400 EDT m=+0.111096549 <nil>}
+[15:39:41] [[32mmod.started[0m] events.stream
+[15:39:41] [[32mmod.stopped[0m] events.stream
+[15:39:41] [[32mmod.started[0m] events.stream
+[15:39:41] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m loading proxy certification authority TLS certificate from /root/.bettercap-ca.cert.pem
+[15:39:41] [[32mmod.started[0m] net.sniff
+[15:39:41] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mnet.sniff[0m[0m starting net.recon as a requirement for net.sniff
+[15:39:41] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m loading proxy certification authority TLS key from /root/.bettercap-ca.key.pem
+[15:39:41] [[32mmod.started[0m] net.recon
+[15:39:41] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m started on 192.168.2.12:8083 (sslstrip [33menabled[0m)
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] [104m[30marp.spoof[0m[0m  addresses=[192.168.2.13] macs=[] whitelisted-addresses=[] whitelisted-macs=[]
+[15:39:41] [[32mmod.started[0m] arp.spoof
+[15:39:41] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m arp spoofer started targeting 254 possible network neighbours of 1 targets.
+[15:39:41] [[32msys.log[0m] [[2m[30m[100mdbg[0m] [104m[30mhttp.proxy[0m[0m applied redirection [eth1] (TCP) :443 -> 192.168.2.12:8083
+[15:39:41] [[32mmod.started[0m] https.proxy
+[15:40:33] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m waiting for ARP spoofer to stop ...
+[15:40:33] [[32mmod.stopped[0m] arp.spoof
+[15:40:33] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m restoring ARP cache of 1 targets.
+[15:40:33] [[32mmod.stopped[0m] events.stream

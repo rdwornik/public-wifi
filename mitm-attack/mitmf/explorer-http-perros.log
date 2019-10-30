@@ -1,0 +1,16 @@
+2019-10-25 11:08:13 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:14 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:14 192.168.2.7 [DNS] Resolving 'login.facebook.com' to 'www.facebook.com' for HSTS bypass
+2019-10-25 11:08:14 192.168.2.7 [DNS] Resolving 'webbadge.facebook.com' to 'badge.facebook.com' for HSTS bypass
+2019-10-25 11:08:14 192.168.2.7 [DNS] Resolving 'login.facebook.com' to 'www.facebook.com' for HSTS bypass
+2019-10-25 11:08:14 192.168.2.7 [DNS] Resolving 'webbadge.facebook.com' to 'badge.facebook.com' for HSTS bypass
+2019-10-25 11:08:25 192.168.2.7 [type:IE-8 os:Windows] POST Data (perros.com):
+redir=%2F&email=admin&pass=strongpassword&Enviar=Entrar
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] POST Data (perros.com):
+redir=%2F&email=admin&pass=strongpassword&Enviar=Entrar
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:28 192.168.2.7 [type:IE-8 os:Windows] perros.com
+2019-10-25 11:08:50 [ARPpoisoner] Restoring connection 192.168.2.7 <-> 192.168.2.254 with 2 packets per host

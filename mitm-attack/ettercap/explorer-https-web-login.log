@@ -1,0 +1,49 @@
+
+[1mettercap 0.8.2[0m copyright 2001-2015 Ettercap Development Team
+
+Listening on:
+  eth1 -> 08:00:27:AF:F0:3B
+	  192.168.2.12/255.255.248.0
+	  fe80::a00:27ff:feaf:f03b/64
+	  2a02:a449:5545:1:a00:27ff:feaf:f03b/64
+	  2a02:a449:5545:1:e57f:b834:768c:f220/64
+
+Privileges dropped to EUID 65534 EGID 65534...
+
+  33 plugins
+  42 protocol dissectors
+  57 ports monitored
+20388 mac vendor fingerprint
+1766 tcp OS fingerprint
+2182 known services
+Lua: no scripts were specified, not starting up!
+
+Loading hosts list from file /root/Desktop/security-project/dns-spoofing/ettercap/victims
+2 hosts added to the hosts list...
+
+ARP poisoning victims:
+
+ GROUP 1 : 192.168.2.254 34:4D:EA:88:24:A4
+
+ GROUP 2 : 192.168.2.13 08:00:27:46:4E:B4
+Starting Unified sniffing...
+
+
+Text only Interface activated...
+Hit 'h' for inline help
+
+Activating sslstrip plugin...
+
+SSLStrip plugin: bind 80 on 59273
+SSLStrip Plugin version 1.1 is still under experimental mode. Please reports any issues to the development team.
+Activating dns_spoof plugin...
+
+
+
+Sat Oct 26 08:12:04 2019 [253653]
+  192.168.2.13:0 --> 192.168.2.254:0 |  (0)
+
+
+User requested a CTRL+C... (deprecated, next time use proper shutdown)
+
+

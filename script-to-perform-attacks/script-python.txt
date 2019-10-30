@@ -1,0 +1,15 @@
+attacking IP: 192.168.2.12
+victim IP: 192.168.2.13
+
+python /root/Desktop/security-project/scripts/arp_spoof.py
+
+python /root/Desktop/security-project/scripts/dns_spoof.py &> ~/Desktop/security-project/dns-spoofing/python_script/explorer-twitter.log
+
+python /root/Desktop/security-project/scripts/dns_spoof.py &> ~/Desktop/security-project/dns-spoofing/python_script/firefox-twitter.log
+
+
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/python_script/tcp-dump-explorer-twitter.pcap
+ -i eth1 host 192.168.2.13
+
+tcpdump -w ~/Desktop/security-project/dns-spoofing/python_script/tcp-dump-firefox-twitter.pcap -i eth1 host 192.168.2.13

