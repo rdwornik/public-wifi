@@ -1,0 +1,23 @@
+ipconfig /flushdns
+
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\explorer-http-perros.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\explorer-https-web-login.txt
+
+
+nslookup twitter.com > C:\Users\Administrator\Desktop\dns-mitmf\explorer-twitter-nslookup.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\explorer-twitter.txt
+
+
+
+
+ipconfig /flushdns
+
+
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\firefox-http-perros.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\firefox-https-web-login.txt
+
+nslookup twitter.com > C:\Users\Administrator\Desktop\dns-mitmf\firefox-twitter-nslookup.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-mitmf\firefox-twitter.txt
+
+
+https://account.genndi.com/login

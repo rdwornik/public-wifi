@@ -1,0 +1,41 @@
+
+Windows IP Configuration
+
+    www.googleadservices.com
+    ----------------------------------------
+    Record Name . . . . . : www.googleadservices.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 4
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead.l.doubleclick.net
+
+
+    www.bizographics.com
+    ----------------------------------------
+    Record Name . . . . . : www.bizographics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : mix.linkedin.com
+
+
+    www.google.nl
+    ----------------------------------------
+    Record Name . . . . . : www.google.nl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 39
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.208.99
+
+
+    Record Name . . . . . : www.google.nl
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 39
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80c::2003
+
+

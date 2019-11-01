@@ -1,0 +1,77 @@
+
+Windows IP Configuration
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 202
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.195
+
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 202
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80c::2003
+
+
+    perros.com
+    ----------------------------------------
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.30.64
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.31.64
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1e40
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1f40
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : safebrowsing.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 196
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.234
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : safebrowsing.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 85
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80e::200a
+
+

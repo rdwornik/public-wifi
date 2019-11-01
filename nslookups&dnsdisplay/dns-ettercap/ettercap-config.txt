@@ -1,0 +1,23 @@
+ipconfig /flushdns
+
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\explorer-http-perros.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\explorer-https-web-login.txt
+
+
+nslookup twitter.com > C:\Users\Administrator\Desktop\dns-ettercap\explorer-twitter-nslookup.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\explorer-twitter.txt
+
+
+
+
+ipconfig /flushdns
+
+
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\firefox-http-perros.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\firefox-https-web-login.txt
+
+nslookup twitter.com > C:\Users\Administrator\Desktop\dns-ettercap\firefox-twitter-nslookup.txt
+ipconfig /displaydns > C:\Users\Administrator\Desktop\dns-ettercap\firefox-twitter.txt
+
+
+https://account.genndi.com/login

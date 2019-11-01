@@ -1,0 +1,7 @@
+Server:  mijnmodem.kpn.home
+Address:  fe80::364d:eaff:fe88:24a4
+
+Name:    twitter.com
+Addresses:  104.244.42.1
+	  104.244.42.193
+

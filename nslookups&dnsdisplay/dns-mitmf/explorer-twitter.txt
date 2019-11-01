@@ -1,0 +1,26 @@
+
+Windows IP Configuration
+
+    webabs.twimg.com
+    ----------------------------------------
+    Name does not exist.
+
+
+    twitter.com
+    ----------------------------------------
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 547
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.129
+
+
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 547
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.65
+
+

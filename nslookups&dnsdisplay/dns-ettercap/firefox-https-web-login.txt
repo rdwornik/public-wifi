@@ -1,0 +1,637 @@
+
+Windows IP Configuration
+
+    www.googleadservices.com
+    ----------------------------------------
+    Record Name . . . . . : www.googleadservices.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 76
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead.l.doubleclick.net
+
+
+    pagead.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : pagead.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 76
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.194
+
+
+    pagead.l.doubleclick.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www-googletagmanager.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-googletagmanager.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.17.104
+
+
+    www-googletagmanager.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-googletagmanager.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:806::2008
+
+
+    e6449.a.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    gstaticadssl.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : gstaticadssl.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.17.131
+
+
+    gstaticadssl.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : gstaticadssl.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:809::2003
+
+
+    e4007.g.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 79
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80a::2003
+
+
+    stats.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 146
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 173.194.69.157
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 146
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 173.194.69.155
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 146
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 173.194.69.154
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 146
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 173.194.69.156
+
+
+    stats.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 145
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:4013:c04::9c
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.20.110
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 78
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80e::200e
+
+
+    www-google-analytics.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.20.110
+
+
+    account.genndi.com
+    ----------------------------------------
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.9.101
+
+
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.10.101
+
+
+    account.genndi.com
+    ----------------------------------------
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 263
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:20::6819:a65
+
+
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 263
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:20::6819:965
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.196
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 78
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:808::2004
+
+
+    internal-pixel-euc102-lighttpd-elb-1608001443.eu-central-1.elb.amazonaws.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    time.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 145
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.17.42
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 78
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80c::200a
+
+
+    www.google.nl
+    ----------------------------------------
+    Record Name . . . . . : www.google.nl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.211.99
+
+
+    www.google.nl
+    ----------------------------------------
+    Record Name . . . . . : www.google.nl
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 143
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:809::2003
+
+
+    cdnjs.cloudflare.com
+    ----------------------------------------
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.19.196.151
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.19.198.151
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.19.195.151
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.19.199.151
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.19.197.151
+
+
+    cdnjs.cloudflare.com
+    ----------------------------------------
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 232
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c797
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 232
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c697
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 232
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c597
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 232
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c497
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 232
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c397
+
+
+    prod-tp.sumo.mozit.cloud
+    ----------------------------------------
+    Record Name . . . . . : prod-tp.sumo.mozit.cloud
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.209.95.119
+
+
+    Record Name . . . . . : prod-tp.sumo.mozit.cloud
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.213.134.214
+
+
+    prod-tp.sumo.mozit.cloud
+    ----------------------------------------
+    No records of type AAAA
+
+
+    t.co
+    ----------------------------------------
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1198
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.133
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1198
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.197
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1198
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.5
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1198
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.69
+
+
+    t.co
+    ----------------------------------------
+    No records of type AAAA
+
+
+    platform.twitter.map.fastly.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : safebrowsing.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 78
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:808::200a
+
+
+    prod.pinterest.global.map.fastly.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.gstatic.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gstaticadssl.l.google.com
+
+
+    px.ads.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : px.ads.linkedin.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 31
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : mix.linkedin.com
+
+
+    s.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.195
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.67
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.3
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.131
+
+
+    s.twitter.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pop-efr5.www.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-efr5.www.linkedin.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 78643
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.63.145.1
+
+
+    pop-efr5.www.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-efr5.www.linkedin.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 77047
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a05:f500:10:101::b93f:9101
+
+
+    adserver-vpc-alb-2-1264451658.eu-west-1.elb.amazonaws.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    stats.g.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.g.doubleclick.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 145
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : stats.l.doubleclick.net
+
+
+    ocsp.sca1b.amazontrust.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pop-tln1-alpha.mix.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.mix.linkedin.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2009
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.63.144.5
+
+
+    pop-tln1-alpha.mix.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.mix.linkedin.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 2011
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a05:f500:11:101::b93f:9005
+
+
+    s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    ----------------------------------------
+    Record Name . . . . . : s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 119
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.14.176
+
+
+    Record Name . . . . . : s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 119
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.15.176
+
+
+    s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    ----------------------------------------
+    Record Name . . . . . : s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:eb0
+
+
+    Record Name . . . . . : s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 15
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:fb0
+
+
+    e16936.a.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.googletagmanager.com
+    ----------------------------------------
+    Record Name . . . . . : www.googletagmanager.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-googletagmanager.l.google.com
+
+
+    analytics.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : analytics.twitter.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 18
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ads.twitter.com
+
+
+    d3kf9uqclka5mu.cloudfront.net
+    ----------------------------------------
+    No records of type AAAA
+
+

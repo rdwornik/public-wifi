@@ -1,0 +1,62 @@
+
+Windows IP Configuration
+
+    sport.pl
+    ----------------------------------------
+    Record Name . . . . . : sport.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 4060
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 80.252.0.135
+
+
+    perros.com
+    ----------------------------------------
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 235
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.31.64
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 235
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.30.64
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 235
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1f40
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 235
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1e40
+
+
+    wpad
+    ----------------------------------------
+    Name does not exist.
+
+
+    pagead2.googlesyndication.com
+    ----------------------------------------
+    Record Name . . . . . : pagead2.googlesyndication.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 98
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead46.l.doubleclick.net
+
+

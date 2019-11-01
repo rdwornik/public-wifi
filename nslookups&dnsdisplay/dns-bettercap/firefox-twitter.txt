@@ -1,0 +1,845 @@
+
+Windows IP Configuration
+
+    incoming.telemetry.mozilla.org
+    ----------------------------------------
+    Record Name . . . . . : incoming.telemetry.mozilla.org
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 18
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : telemetry-incoming.r53-2.services.mozilla.com
+
+
+    pagead.l.doubleclick.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www-googletagmanager.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-googletagmanager.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 122
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:805::2008
+
+
+    www.mozilla.org.cdn.cloudflare.net
+    ----------------------------------------
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 186
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.16.41.2
+
+
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 186
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.16.40.2
+
+
+    www.mozilla.org.cdn.cloudflare.net
+    ----------------------------------------
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6810:2902
+
+
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6810:2802
+
+
+    e6449.a.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    d228z91au11ukj.cloudfront.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 32
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80b::2003
+
+
+    e4007.g.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    stats.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 108.177.119.154
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 108.177.119.157
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 108.177.119.155
+
+
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 108.177.119.156
+
+
+    stats.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.l.doubleclick.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 119
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:4013:c01::9b
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.19.206
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 230
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80c::200e
+
+
+    www-google-analytics.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.19.206
+
+
+    account.genndi.com
+    ----------------------------------------
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.10.101
+
+
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.9.101
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 212
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.196
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 207
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:805::2004
+
+
+    internal-pixel-euc102-lighttpd-elb-1608001443.eu-central-1.elb.amazonaws.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    time.com
+    ----------------------------------------
+    Record Name . . . . . : time.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 99.86.115.34
+
+
+    Record Name . . . . . : time.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 99.86.115.118
+
+
+    Record Name . . . . . : time.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 99.86.115.63
+
+
+    Record Name . . . . . : time.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 99.86.115.91
+
+
+    time.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.wp.pl
+    ----------------------------------------
+    Record Name . . . . . : www.wp.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 164
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 212.77.98.9
+
+
+    www.wp.pl
+    ----------------------------------------
+    No records of type AAAA
+
+
+    cdnjs.cloudflare.com
+    ----------------------------------------
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c397
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c797
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c697
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c497
+
+
+    Record Name . . . . . : cdnjs.cloudflare.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 133
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6813:c597
+
+
+    pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    ----------------------------------------
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.10.187.18
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.208.47.123
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.35.171.123
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.32.219.185
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 50.112.59.215
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.162.235.163
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.160.208.145
+
+
+    Record Name . . . . . : pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 53
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.24.89.101
+
+
+    pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    prod-tp.sumo.mozit.cloud
+    ----------------------------------------
+    No records of type AAAA
+
+
+    t.co
+    ----------------------------------------
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1373
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.133
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1373
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.197
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1373
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.5
+
+
+    Record Name . . . . . : t.co
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1373
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.69
+
+
+    t.co
+    ----------------------------------------
+    No records of type AAAA
+
+
+    platform.twitter.map.fastly.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    d6wjo2hisqfy2.cloudfront.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    tiles.r53-2.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.166.89.106
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.24.113.72
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.69.207.70
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.162.117.80
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.161.239.106
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.27.192.194
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 100.20.112.56
+
+
+    Record Name . . . . . : tiles.r53-2.services.mozilla.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 34.223.160.244
+
+
+    tiles.r53-2.services.mozilla.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    olympia.prod.mozaws.net
+    ----------------------------------------
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.32.144.83
+
+
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 54.68.200.170
+
+
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 100.20.216.220
+
+
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.89.101.109
+
+
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.162.83.120
+
+
+    Record Name . . . . . : olympia.prod.mozaws.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.41.56.181
+
+
+    olympia.prod.mozaws.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    a1089.dscd.akamai.net
+    ----------------------------------------
+    Record Name . . . . . : a1089.dscd.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 84.53.175.120
+
+
+    Record Name . . . . . : a1089.dscd.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 84.53.175.67
+
+
+    a1089.dscd.akamai.net
+    ----------------------------------------
+    Record Name . . . . . : a1089.dscd.akamai.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:b200::5435:af78
+
+
+    Record Name . . . . . : a1089.dscd.akamai.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:b200::5435:af43
+
+
+    s.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 618
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.195
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 618
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.67
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 618
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.131
+
+
+    Record Name . . . . . : s.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 618
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.3
+
+
+    s.twitter.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    abs.twimg.com
+    ----------------------------------------
+    Record Name . . . . . : abs.twimg.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 187
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs196.wac.edgecastcdn.net
+
+
+    stats.g.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : stats.g.doubleclick.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 28
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : stats.l.doubleclick.net
+
+
+    tiles.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : tiles.services.mozilla.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : tiles.r53-2.services.mozilla.com
+
+
+    tiles.services.mozilla.com
+    ----------------------------------------
+    Record Name . . . . . : tiles.services.mozilla.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 45
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : tiles.r53-2.services.mozilla.com
+
+
+    twitter.com
+    ----------------------------------------
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 996
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.2.12
+
+
+    twitter.com
+    ----------------------------------------
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 981
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : ::ffff:192.168.2.12
+
+
+    syndication.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : syndication.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1042
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.200
+
+
+    Record Name . . . . . : syndication.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1042
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.8
+
+
+    Record Name . . . . . : syndication.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1042
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.136
+
+
+    Record Name . . . . . : syndication.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1042
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.72
+
+
+    syndication.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : syndication.twitter.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 980
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : ::ffff:192.168.2.12
+
+
+    cs672.wac.edgecastcdn.net
+    ----------------------------------------
+    Record Name . . . . . : cs672.wac.edgecastcdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3113
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.229.233.50
+
+
+    cs672.wac.edgecastcdn.net
+    ----------------------------------------
+    Record Name . . . . . : cs672.wac.edgecastcdn.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 626
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:2800:134:fa2:1627:1fe:edb:1665
+
+
+    pop-tln1-alpha.www.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.www.linkedin.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 7973
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.63.144.1
+
+
+    pop-tln1-alpha.www.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.www.linkedin.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 2767
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a05:f500:11:101::b93f:9001
+
+
+    adserver-vpc-alb-1-1446435489.eu-west-1.elb.amazonaws.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pop-tln1-alpha.mix.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.mix.linkedin.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 2949
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.63.144.5
+
+
+    pop-tln1-alpha.mix.linkedin.com
+    ----------------------------------------
+    Record Name . . . . . : pop-tln1-alpha.mix.linkedin.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 3122
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a05:f500:11:101::b93f:9005
+
+
+    e16936.a.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    detectportal.firefox.com
+    ----------------------------------------
+    Record Name . . . . . : detectportal.firefox.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : detectportal.prod.mozaws.net
+
+
+    detectportal.firefox.com
+    ----------------------------------------
+    Record Name . . . . . : detectportal.firefox.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : detectportal.prod.mozaws.net
+
+
+    d3kf9uqclka5mu.cloudfront.net
+    ----------------------------------------
+    No records of type AAAA
+
+

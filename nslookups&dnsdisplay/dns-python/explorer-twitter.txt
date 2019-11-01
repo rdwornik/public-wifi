@@ -1,0 +1,47 @@
+
+Windows IP Configuration
+
+    mobile.twitter.com
+    ----------------------------------------
+    Record Name . . . . . : mobile.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1745
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.6
+
+
+    Record Name . . . . . : mobile.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1745
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.198
+
+
+    Record Name . . . . . : mobile.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1745
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.70
+
+
+    Record Name . . . . . : mobile.twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1745
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.244.42.134
+
+
+    ma.twimg.com
+    ----------------------------------------
+    Record Name . . . . . : ma.twimg.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 203
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs196.wac.edgecastcdn.net
+
+

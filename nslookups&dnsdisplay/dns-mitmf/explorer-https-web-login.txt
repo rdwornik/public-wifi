@@ -1,0 +1,56 @@
+
+Windows IP Configuration
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 129
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.228
+
+
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 129
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:806::2004
+
+
+    sport.pl
+    ----------------------------------------
+    Record Name . . . . . : sport.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 86118
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 80.252.0.135
+
+
+    www.weblogin.salesforce.com
+    ----------------------------------------
+    Name does not exist.
+
+
+    login
+    ----------------------------------------
+    Name does not exist.
+
+
+    weblogin.yahoo.com
+    ----------------------------------------
+    Name does not exist.
+
+
+    web
+    ----------------------------------------
+    Name does not exist.
+
+
+    weblogin.salesforce.com
+    ----------------------------------------
+    Name does not exist.
+
+

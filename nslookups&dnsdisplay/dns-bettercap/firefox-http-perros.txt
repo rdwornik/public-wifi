@@ -1,0 +1,429 @@
+
+Windows IP Configuration
+
+    securepubads.g.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : securepubads.g.doubleclick.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 118
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : partnerad.l.doubleclick.net
+
+
+    www.mozilla.org.cdn.cloudflare.net
+    ----------------------------------------
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.16.41.2
+
+
+    Record Name . . . . . : www.mozilla.org.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 206
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.16.40.2
+
+
+    autopush.prod.mozaws.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 119
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.20.99
+
+
+    pki-goog.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pki-goog.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 97
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80b::2003
+
+
+    d228z91au11ukj.cloudfront.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www-google-analytics.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.208.110
+
+
+    www-google-analytics.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 1
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80b::200e
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 1
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    www.sport.pl
+    ----------------------------------------
+    Record Name . . . . . : www.sport.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 75325
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 80.252.0.148
+
+
+    www.sport.pl
+    ----------------------------------------
+    No records of type AAAA
+
+
+    account.genndi.com
+    ----------------------------------------
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 131
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.10.101
+
+
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 131
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.25.9.101
+
+
+    account.genndi.com
+    ----------------------------------------
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:20::6819:965
+
+
+    Record Name . . . . . : account.genndi.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:20::6819:a65
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 176
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.17.132
+
+
+    www.google.com
+    ----------------------------------------
+    Record Name . . . . . : www.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 117
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:808::2004
+
+
+    s.perros.com
+    ----------------------------------------
+    Record Name . . . . . : s.perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 5.39.75.212
+
+
+    s.perros.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    time.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.wp.pl
+    ----------------------------------------
+    Record Name . . . . . : www.wp.pl
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 173
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 212.77.98.9
+
+
+    www.wp.pl
+    ----------------------------------------
+    No records of type AAAA
+
+
+    perros.com
+    ----------------------------------------
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.30.64
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.31.64
+
+
+    perros.com
+    ----------------------------------------
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1f40
+
+
+    Record Name . . . . . : perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 214
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1e40
+
+
+    prod-tp.sumo.mozit.cloud
+    ----------------------------------------
+    No records of type AAAA
+
+
+    www.perros.com
+    ----------------------------------------
+    Record Name . . . . . : www.perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 243
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.30.64
+
+
+    Record Name . . . . . : www.perros.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 243
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.28.31.64
+
+
+    www.perros.com
+    ----------------------------------------
+    Record Name . . . . . : www.perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 243
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1e40
+
+
+    Record Name . . . . . : www.perros.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 243
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:30::681c:1f40
+
+
+    cs9.wac.phicdn.net
+    ----------------------------------------
+    Record Name . . . . . : cs9.wac.phicdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3011
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 93.184.220.29
+
+
+    cs9.wac.phicdn.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : safebrowsing.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 96
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:808::200a
+
+
+    www.googletagservices.com
+    ----------------------------------------
+    Record Name . . . . . : www.googletagservices.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 118
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead46.l.doubleclick.net
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.digicert.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3011
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wac.phicdn.net
+
+
+    tiles.r53-2.services.mozilla.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    olympia.prod.mozaws.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    partnerad.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : partnerad.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 118
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 216.58.211.98
+
+
+    partnerad.l.doubleclick.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pagead46.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : pagead46.l.doubleclick.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 101
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.168.194
+
+
+    pagead46.l.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : pagead46.l.doubleclick.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 118
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:80e::2002
+
+
+    tpc.googlesyndication.com
+    ----------------------------------------
+    Record Name . . . . . : tpc.googlesyndication.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead-googlehosted.l.google.com
+
+
+    adservice.google.nl
+    ----------------------------------------
+    Record Name . . . . . : adservice.google.nl
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 119
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead46.l.doubleclick.net
+
+
+    googleads.g.doubleclick.net
+    ----------------------------------------
+    Record Name . . . . . : googleads.g.doubleclick.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 100
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : pagead46.l.doubleclick.net
+
+
+    twitter.com
+    ----------------------------------------
+    No records of type AAAA
+
+
+    e16936.a.akamaiedge.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    pagead-googlehosted.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pagead-googlehosted.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 144
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.19.193
+
+
+    pagead-googlehosted.l.google.com
+    ----------------------------------------
+    Record Name . . . . . : pagead-googlehosted.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 197
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400e:804::2001
+
+
+    shavar.prod.mozaws.net
+    ----------------------------------------
+    No records of type AAAA
+
+

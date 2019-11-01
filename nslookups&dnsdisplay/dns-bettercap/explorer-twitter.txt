@@ -1,0 +1,31 @@
+
+Windows IP Configuration
+
+    abs.twimg.com
+    ----------------------------------------
+    Record Name . . . . . : abs.twimg.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 47
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs196.wac.edgecastcdn.net
+
+
+    twitter.com
+    ----------------------------------------
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 947
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.2.12
+
+
+    Record Name . . . . . : twitter.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 947
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : ::ffff:192.168.2.12
+
+
